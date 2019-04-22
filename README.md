@@ -1,8 +1,5 @@
-# hello-world22
-#Esta es la rama principal
+#Esta es la rama secundaria
 
-Prácticas curso GitHub
+esta es una nueva línea para añadir
 
-Hi Roberto, me gusta este curso
-
-#Este es el final de la principal
+#Este es el final de la secundaria
